@@ -1,5 +1,5 @@
-#Hi there <img src="https://raw.githubusercontent.com/aatinubu/aatinubu/main/assets/wave.gif" width=35px />
-####I help intelligent systems see so they can be smarter.
+# Hi there <img src="https://raw.githubusercontent.com/aatinubu/aatinubu/main/assets/wave.gif" width=35px />
+#### I help intelligent systems see so they can be smarter.
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00427E?style=flat-square&logo=C%2B%2B&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FEDA50)
