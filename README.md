@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aatinubu&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aatinubu&count_private=true&show_icons=true&include_all_commits=true)
