@@ -1,6 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/aatinubu/aatinubu/main/assets/wave.gif" width=35px />
 #### I help intelligent systems see so they can be smarter.
 
+### What I do
 ![C++](https://img.shields.io/badge/-C%2B%2B-00427E?style=flat-square&logo=C%2B%2B&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FEDA50)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-square&logoColor=FFFFFF)
@@ -11,6 +12,8 @@
 ![Windows](https://img.shields.io/badge/-Windows-FFFFFF?style=flat-square&logo=windows&logoColor=007FD5)
 ![Shell](https://img.shields.io/badge/-Shell-2673BB?style=flat-square&logo=powershell&logoColor=FFFFFF)
 ![UnrealEngine](https://img.shields.io/badge/-Unreal-FFFFFF?style=flat-square&logo=unreal-engine&logoColor=000000)
+
+### Old but gold
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-FFFFFF?style=flat-square&logo=node.js&logoColor=3E863D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
