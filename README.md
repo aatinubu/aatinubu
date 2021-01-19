@@ -35,7 +35,7 @@
 
 ![aatinubu's github stats](https://github-readme-stats.vercel.app/api?username=aatinubu&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide=prs&theme=darcula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=darcula&v=2)
 
 [![aatinbu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aatinubu&theme=darcula&v=3&layout=compact)](https://wakatime.com/@aatinubu)
 
