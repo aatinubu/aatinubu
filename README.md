@@ -37,6 +37,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=darcula)
 
-[![aatinbu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atinubu&theme=darcula&v=2)](https://wakatime.com/@atinubu)
+[![aatinbu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atinubu&theme=darcula&v=2&layout=compact)](https://wakatime.com/@atinubu)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=aatinubu&label=visitors&color=0e75b6&style=flat-square)
