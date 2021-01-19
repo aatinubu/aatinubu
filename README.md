@@ -20,10 +20,10 @@
 
 ---
 
-- 🔭 I’m currently working on [An implementation of GMPHD filtering technique in C++](https://github.com/aatinubu/GMPHD-in-CPP/)
+- 🔭 I’m currently working on [An implementation of the GMPHD filtering technique in C++](https://github.com/aatinubu/GMPHD-in-CPP/)
 - 🌱 I’m currently learning **New tracking algorithms**
 - 🤔 I’m looking for help with [GMPHD-in-CPP](https://github.com/aatinubu/GMPHD-in-CPP/)
-- 💬 Ask me about **Autonomous tracking, computer vision**
+- 💬 Ask me about **Autonomous driving, computer vision**
 - ⚡ Fun fact: **I crack jokes**
 
 ---
