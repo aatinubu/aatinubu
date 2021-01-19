@@ -33,8 +33,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-aatinubu-515BCC?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/aatinubu/)](https://instagram.com/aatinubu)
 [![Gmail Badge](https://img.shields.io/badge/-akolade.tinubu@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:akolade.tinubu@gmail.com)](mailto:akolade.tinubu@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=darcula)
 ![aatinubu's github stats](https://github-readme-stats.vercel.app/api?username=aatinubu&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide=prs&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=darcula)
 
 [![aatinbu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atinubu&theme=darcula&v=2)](https://wakatime.com/@atinubu)
 
