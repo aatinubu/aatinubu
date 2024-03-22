@@ -1,4 +1,6 @@
-# Hi there <img src="https://raw.githubusercontent.com/aatinubu/aatinubu/main/assets/wave.gif" width=35px />
+### Hi there <img src="https://raw.githubusercontent.com/aatinubu/aatinubu/main/assets/wave.gif" width=15px />
+![Visitor Badge](https://komarev.com/ghpvc/?username=aatinubu&label=visitors&color=0e75b6&style=flat-square)
+<!--
 #### I help intelligent systems see so they can be smarter.
 
 ### What I do
@@ -18,7 +20,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-FFFFFF?style=flat-square&logo=node.js&logoColor=3E863D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-<!--
+
 ---
 
 - 🔭 I’m currently working on [An implementation of the GMPHD filtering technique in C++](https://github.com/aatinubu/GMPHD-in-CPP/)
@@ -31,9 +33,9 @@
 -->
 
 ![aatinubu's github stats](https://github-readme-stats.vercel.app/api?username=aatinubu&count_private=true&include_all_commits=true&show_icons=true&hide_title=false&hide=prs&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=transparent&v=2&show_icons=true&include_all_commits=true&is_fork=false)
-[![aatinbu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aatinubu&theme=darcula&v=3&layout=compact)](https://wakatime.com/@aatinubu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=transparent&v=2&show_icons=true&include_all_commits=true,is_fork=falseb&langs_count=8&hide_title=false&hide=Matlab,C,javascript,html,LabVIEW,ProLog,objective-c,M,OpenEdge%20ABL,Batchfile,Perl,Roff,Jupyter%20Notebook,TCL,TLA,CSS,c%23,Makefile,Tex,GLSL,qmake,M4,scilab,ruby)
+[![aatinbu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aatinubu&theme=transparent&v=3&layout=compact)](https://wakatime.com/@aatinubu)
 
 
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=aatinubu&label=visitors&color=0e75b6&style=flat-square)
+
