@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aatinubu/aatinubu/main/assets/wave.gif" width=20px />
 ![Visitor Badge](https://komarev.com/ghpvc/?username=aatinubu&label=visitors&color=0e75b6&style=flat-square)
-[![wakatime](https://wakatime.com/badge/user/d27848d0-088a-49ee-aab2-d22195346fea/project/87d55d11-9a76-4920-9685-672bbcbd3fdd.svg)](https://wakatime.com/badge/user/d27848d0-088a-49ee-aab2-d22195346fea/project/87d55d11-9a76-4920-9685-672bbcbd3fdd)
+
 <!--
 #### I help intelligent systems see so they can be smarter.
 
