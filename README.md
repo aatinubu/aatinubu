@@ -18,6 +18,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-FFFFFF?style=flat-square&logo=node.js&logoColor=3E863D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
+<!--
 ---
 
 - 🔭 I’m currently working on [An implementation of the GMPHD filtering technique in C++](https://github.com/aatinubu/GMPHD-in-CPP/)
@@ -27,16 +28,12 @@
 - ⚡ Fun fact: **I crack jokes**
 
 ---
+-->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/aatinubu?color=blue&label=%40AATINUBU&logo=twitter&style=for-the-badge)](https://twitter.com/aatinubu)
-[![Linkedin Badge](https://img.shields.io/badge/-aatinubu-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aatinubu/)](https://www.linkedin.com/in/aatinubu/)
-[![Instagram Badge](https://img.shields.io/badge/-aatinubu-515BCC?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/aatinubu/)](https://instagram.com/aatinubu)
-[![Gmail Badge](https://img.shields.io/badge/-akolade.tinubu@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:akolade.tinubu@gmail.com)](mailto:akolade.tinubu@gmail.com)
-
-![aatinubu's github stats](https://github-readme-stats.vercel.app/api?username=aatinubu&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide=prs&theme=darcula)
-
+![aatinubu's github stats](https://github-readme-stats.vercel.app/api?username=aatinubu&count_private=true&include_all_commits=true&show_icons=true&hide_title=false&hide=prs&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=transparent&v=2&show_icons=true&include_all_commits=true&is_fork=false)
 [![aatinbu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aatinubu&theme=darcula&v=3&layout=compact)](https://wakatime.com/@aatinubu)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=darcula&v=2)
+
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=aatinubu&label=visitors&color=0e75b6&style=flat-square)
