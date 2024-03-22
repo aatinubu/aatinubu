@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/aatinubu/aatinubu/main/assets/wave.gif" width=15px />
+### Hi there <img src="https://raw.githubusercontent.com/aatinubu/aatinubu/main/assets/wave.gif" width=20px />
 ![Visitor Badge](https://komarev.com/ghpvc/?username=aatinubu&label=visitors&color=0e75b6&style=flat-square)
 <!--
 #### I help intelligent systems see so they can be smarter.
