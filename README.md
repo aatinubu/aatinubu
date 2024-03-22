@@ -32,7 +32,13 @@
 -->
 
 ![aatinubu's github stats](https://github-readme-stats.vercel.app/api?username=aatinubu&v=4&count_private=true&include_all_commits=false&show_icons=true&hide_title=false&hide=prs&theme=transparent)
+
+---
+
+### My Wakatime Stats
 ![aatinubu's Wakatime Stats](https://wakatime.com/share/@aatinubu/89ad915c-98f7-4fa4-bce1-cedd8e72cc10.svg)
+
+---
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=transparent&v=4&count_private=true&show_icons=true&include_all_commits=false,is_fork=true&langs_count=8&hide_title=false&hide=Matlab,C,javascript,html,LabVIEW,ProLog,objective-c,M,OpenEdge%20ABL,Batchfile,Perl,Roff,Jupyter%20Notebook,TCL,TLA,CSS,c%23,Makefile,Tex,GLSL,qmake,M4,scilab,ruby,scss)
