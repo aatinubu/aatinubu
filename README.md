@@ -36,7 +36,7 @@
 ---
 
 ### My Wakatime Stats
-![aatinubu's Wakatime Stats](https://wakatime.com/share/@aatinubu/89ad915c-98f7-4fa4-bce1-cedd8e72cc10.svg)
+![aatinubu's Wakatime Stats](https://wakatime.com/share/@aatinubu/47c431be-6b72-44c9-b648-7a9675b2b3c9.svg)
 
 ---
 
