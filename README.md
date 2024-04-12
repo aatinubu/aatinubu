@@ -43,7 +43,7 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatinubu&layout=compact&theme=transparent&v=4&count_private=true&show_icons=true&include_all_commits=false,is_fork=true&langs_count=8&hide_title=false&hide=Matlab,C,javascript,html,LabVIEW,ProLog,objective-c,M,OpenEdge%20ABL,Batchfile,Perl,Roff,Jupyter%20Notebook,TCL,TLA,CSS,c%23,Makefile,Tex,GLSL,qmake,M4,scilab,ruby,scss)
 -->
-[![aatinbu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aatinubu&theme=transparent&v=3&layout=compact)](https://wakatime.com/@aatinubu)
+<!-- [![aatinbu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aatinubu&theme=transparent&v=3&layout=compact)](https://wakatime.com/@aatinubu) -->
 
 
 
